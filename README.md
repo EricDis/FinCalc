@@ -5,4 +5,5 @@ A very basic and simple calculator for finance related calculations
 
 ToDo:
 - add further calculations
-- restructure code
+- refactor code
+- add GUI
