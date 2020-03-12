@@ -5,5 +5,11 @@ A very basic and simple calculator for finance related calculations
 
 ToDo:
 - add further calculations
+  - Tilgungsplan Brutto/ Netto
+  - Rentenrechnung
+  - MVP
+  - Portfoliorendite
+  - Portfoliovolatilität
+  - Kovarianz
 - refactor code
 - add GUI
